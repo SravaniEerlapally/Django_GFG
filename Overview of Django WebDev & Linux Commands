@@ -28,3 +28,34 @@ WebDevelpemnt Tools
      Some VS Code Extensions- Pylance(auto suggestion code), Sourcery(helps in modulizes your code)
 
 LINUX Commands
+===============
+  ->ls - lists the files
+
+  ->touch - create file command
+  eg: touch sample.txt, touch main.py,
+
+  ->clear - clears the screen
+
+  ->mkdir - create a directory 
+  eg: mkdir images
+
+  ->pwd - print working directory
+
+  ->cd - change directory
+
+  ->cd .. - takes one back directory
+
+  ->nano filename - write in a file mentioned
+
+  ->cat filename - reads everything in a file mentioned
+
+   ->rm filenamee - deletes file
+
+   ->rm -rf directory/ - delete directory
+
+   ->sudo apt-get - download something from internet
+
+    sudo apt install htop
+   ->htop - shows system configuration, cpu usage
+
+   ->chown - changing the permission
