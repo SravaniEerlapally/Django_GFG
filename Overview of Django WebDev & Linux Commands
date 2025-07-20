@@ -1,0 +1,30 @@
+What is Django?
+  -Django is a python based webframework used for buliding backend applications.
+
+--> Django is used by spotify, instagram, pinterest, mozilla etc..
+
+ADVANTAGES OF DJANGO
+  - Batteries Included Framework
+       ~~~ things built from scratch are already included in Django like authentication system,ORM(already builtin)
+  - Offers Rapid-development
+       ~~~ we can build easily 
+  - Scalable
+  - Security
+
+What is WebDevelopment?
+FrontEnd(client-side) - [HTML,CSS,JS,Reactjs]
++ BackEnd (server-side) - Python[Django]
+                        - Java[Spring]
+                        - JavaScript[ExpressJs]
+                        - PHP[Laravel]
+                        - Go[]
+
+WebDevelpemnt Tools
+  Basic - VS CODE, POSTMAN, GIT, BROWSER(Brave web)
+  Advanced - 
+     SENTRY(deployed your application on production for testing), 
+     LOCUST(used for "load testing for django applications" how many people your app can handle),
+     pg Admin(views your database of application)
+     Some VS Code Extensions- Pylance(auto suggestion code), Sourcery(helps in modulizes your code)
+
+LINUX Commands
